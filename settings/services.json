@@ -1,0 +1,19 @@
+{
+	"game": {
+		"name": "FacebookNativeDemo",
+		"appid": "661734794",
+		"cid": 0
+	},
+	"needExecNative": true,
+	"configs": [
+		{
+			"appid": "661734794",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false
+				}
+			]
+		}
+	]
+}

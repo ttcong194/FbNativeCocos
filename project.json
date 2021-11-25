@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.6",
+  "name": "FacebookNativeDemo",
+  "id": "d75cb7db-194d-4d71-b66b-cb30013e3ab4",
+  "isNew": false
+}
